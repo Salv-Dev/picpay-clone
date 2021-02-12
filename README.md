@@ -36,6 +36,6 @@ PicPay clone
 3. Rode `npm install` para instalar as depedências
 4. Rode `expo start` para iniciar o projeto e abrir o Metro Bundler no navegador
 5. Caso você tenha instalado o app Expo Go, com ele leia o qrcode que aparece no metro bundler
-*obs.: se tiver algum erro de inicializacão no Expo Go, mude a conexão de LAN para TUNNEL no metro bundler
+<p>*obs.: se tiver algum erro de inicializacão no Expo Go, mude a conexão de LAN para TUNNEL no metro bundler</p>
 
 
