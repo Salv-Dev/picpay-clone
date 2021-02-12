@@ -10,8 +10,8 @@ PicPay clone
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="./Screenshot_01" alt="demo" height="600">
-  <img src="./Screenshot_02" alt="demo" height="600">
+  <img src="./Screenshot_01.png" alt="demo" height="600">
+  <img src="./Screenshot_02.png" alt="demo" height="600">
 </div>
 
 <hr />
